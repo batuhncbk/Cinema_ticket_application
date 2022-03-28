@@ -9,7 +9,7 @@ Cinema Ticket Application
 _______________________________________________________________________________________________________________________
 
 <p align="center">
-  <img src="https://github.com/batuhncbk/Open_Weather_API_App/blob/main/weather_app.PNG" alt="Github görselim"/>
+  <img src="https://github.com/batuhncbk/cinema_ticket_application/blob/main/film_ticket.PNG" alt="Github görselim"/>
 </p>
 
 ## License
