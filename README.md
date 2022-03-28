@@ -1,7 +1,7 @@
 # cinema_ticket_application
 Cinema Ticket Application
 
-#### This project is my exercise to learn html, css and javascript.
+#### This project is my exercise to learn html, css and javascript..
 
 #### It is a web page design with a visual interface where the ticket purchase screen from a cinema or theater site is presented and the selection is made and the entered data is kept in the datastorage.
 
