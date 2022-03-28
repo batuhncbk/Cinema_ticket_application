@@ -7,6 +7,7 @@ Cinema Ticket Application
 
 #### This is the interface that when using this application.
 _______________________________________________________________________________________________________________________
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
